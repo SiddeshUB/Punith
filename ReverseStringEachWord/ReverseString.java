@@ -1,5 +1,5 @@
 /*Write a java program to reverse the each word in a sentence/string */
-package com.learing.reverseStringEachWord;
+package ReverseStringEachWord;
 public class ReverseString {
 	public static String  reverseStr(String str) {
 		String arr[] = str.split(" ");

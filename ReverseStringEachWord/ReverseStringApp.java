@@ -1,12 +1,13 @@
-package com.learnig.reverseString;
+package ReverseStringEachWord;
 
 import java.util.Scanner;
-public class ReverseStrApp {
+
+public class ReverseStringApp {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner (System.in);
 		System.out.println("Enter a string");
 		String str = scan.nextLine();
-		System.out.println(ReverseStr.reverseStr(str));
+		String reverseStr=ReverseString.reverseStr(str);
+		System.out.println(reverseStr);
 	}
-
 }

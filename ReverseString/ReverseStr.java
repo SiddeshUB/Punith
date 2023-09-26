@@ -1,5 +1,5 @@
 /*Write a java program to reverse the string */
-package com.learnig.reverseString;
+package ReverseString;
 
 public class ReverseStr {
 	public static String  reverseStr(String str) {

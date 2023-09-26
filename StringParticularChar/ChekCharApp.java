@@ -1,4 +1,4 @@
-package com.learnig.StringParticularChar;
+package StringParticularChar;
 
 import java.util.Scanner;
 public class ChekCharApp {

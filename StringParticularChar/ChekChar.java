@@ -1,5 +1,5 @@
 /*write java progrom to check whether a string contians a particular character or not*/
-package com.learnig.StringParticularChar;
+package StringParticularChar;
 
 public class ChekChar {
 	public static String  checkCharacter(String str,char ch) {

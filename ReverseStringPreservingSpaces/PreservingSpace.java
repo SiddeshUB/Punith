@@ -1,5 +1,5 @@
 /*Write a java program reverse string by preserving the white spaces*/
-package com.learning.reverseStringPreservingSpaces;
+package ReverseStringPreservingSpaces;
 public class PreservingSpace {
 	public static String  reverseStrWithSpace(String str) {
 		char arr1[] = str.toCharArray();
